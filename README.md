@@ -3,14 +3,14 @@
 <details>
 <summary>⚡ Github Stats</summary>
   
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=m3nf1s)](https://github.com/anuraghazra/github-readme-stats)
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=m3nf1s&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
 </details>
 
 <details>
 <summary>👨‍💻 Used Languages</summary>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3nf1s)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3nf1s)
   
 </details>
 
